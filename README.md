@@ -13,7 +13,7 @@
 - Prototype was run by figma
 ---
 ### 4 - prototype Link 
-- [School Website Prototype](https://www.figma.com/design/ZZ9KBHsTe14EPXFOBv2t3a/First-Task?node-id=77-432&t=GA0Pi5lzPvmOzb6x-1](https://www.figma.com/proto/ZZ9KBHsTe14EPXFOBv2t3a/First-Task?node-id=77-432&t=GA0Pi5lzPvmOzb6x-1)
+- [School Website Prototype](https://www.figma.com/proto/ZZ9KBHsTe14EPXFOBv2t3a/First-Task?node-id=1057199-628&p=f&t=V4RhhU74AM4n1YlJ-1&scaling=min-zoom&content-scaling=fixed&page-id=77%3A432&starting-point-node-id=1057199%3A628)
 ---
 ### 5 - Colors Hex Number
 - Color was taken from Color Hex website
