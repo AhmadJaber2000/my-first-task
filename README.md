@@ -1,4 +1,4 @@
-#ٍ# School Website
+# School Website
 ---
 ### 1 - WireFrame
 - School Wireframe Using Figma using desing metrial kit 
